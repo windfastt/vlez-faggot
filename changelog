@@ -7,3 +7,6 @@
 [-] no jumpdelay
 [-] anticheatpresence (acp) disables lots of features and or replaces them with alternatives
 [-] hideindentity
+[-] covid (when within a certain distance you will automatically walk away [will adjust speed using tpwalk cframe or walkspeed if the other player starts chasing you, as well as autojump and walltp])
+[-] parkinsons disease (you will shake just slightly but shake on the x axis)
+[-]
